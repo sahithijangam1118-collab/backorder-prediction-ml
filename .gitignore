@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local dataset and generated artifacts (review before committing)
+Training_Dataset_v2.csv
+backorder_best_model.pkl
+backorder_model_comparison.csv
